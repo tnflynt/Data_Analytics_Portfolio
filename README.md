@@ -13,5 +13,5 @@ This repository contains a portfolio of data science and data analytics projects
 
 ### •	Machine Learning
 
-*	[Predicting Boston Housing Prices](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Boston_house_price_prediction.ipynb): A linear regression model to predict the median value of a given house in Boston using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
-*	[Heart Disease Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb): A logistic regression model to predict whether a patient has a heart disease (or not) using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+*	[Predicting Boston Housing Price](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Boston_house_price_prediction.ipynb): A linear regression model to predict the median value of a given house in Boston using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+*	[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb): A logistic regression model to predict whether a patient has a heart disease (or not) using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
