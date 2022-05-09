@@ -8,7 +8,7 @@ This repository contains a portfolio of data science and data analytics projects
 ### •	Data Analysis and Visualization
 
 *	[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Bike%20share%20program%20analysis.Rmd): Analysis of historical data in 2021 of Cyclistic, a bike-share company in Chicago, focusing on understanding how annual members and casual riders differ as well as identify which factors might influence casual riders to become members. Tools: R markdown.
-*	[Chicago Crime Analysis](https://public.tableau.com/a)pp/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2): Exploration of Chicago crime data between 2015 and 2019 to identify how dangerous (or not) Chicago has become in the last year and assess conditions for major developer and risks. Tools: KNIME and Tableau.
+*	[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2): Exploration of Chicago crime data between 2015 and 2019 to identify how dangerous (or not) Chicago has become in the last year and assess conditions for major developer and risks. Tools: KNIME and Tableau.
 *	[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Customer%20Demographics%20Analysis_KNIME.pdf): Simple analysis of American Community Survey data 2012-2016 for Pennsylvania state to identify the profiles of households who own their real estate with a mortgage or loan in the state of Pennsylvania. Tools: KNIME.
 
 ### •	Machine Learning
