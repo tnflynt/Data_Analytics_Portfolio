@@ -10,7 +10,7 @@ This repository contains a collection of data science and analytics projects com
 
 * **[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2)**: Explores Chicago crime data from 2015 to 2019 to assess safety trends and risks relevant to major developments in the city. Tools: KNIME and Tableau.
 
-* **[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Customer%20Demographics%20Analysis_KNIME.pdf)**: Analyzes American Community Survey data (2012-2016) for Pennsylvania to profile households with mortgages or loans on their real estate. Tools: KNIME.
+* **[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/customer_demographics_analysis_KNIME.pdf)**: Analyzes American Community Survey data (2012-2016) for Pennsylvania to profile households with mortgages or loans on their real estate. Tools: KNIME.
 
 ### • Machine Learning
 
