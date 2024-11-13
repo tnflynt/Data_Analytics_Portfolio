@@ -18,4 +18,4 @@ This repository contains a collection of data science and analytics projects com
 
 * **[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb)**: Builds a logistic regression model to predict the presence of heart disease using data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
 
-* **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Credit_Card_Customer_Segmentation.ipynb)**: Implements K-Means clustering and autoencoders to segment credit card customers based on spending behavior, focusing on interpretability and clustering effectiveness. Provides recommendations for each customer segment. Tools: Python, Scikit-Learn.
+* **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/credit_card_customer_segmentation.ipynb)**: Implements K-Means clustering and autoencoders to segment credit card customers based on spending behavior, focusing on interpretability and clustering effectiveness. Provides recommendations for each customer segment. Tools: Python, Scikit-Learn.
