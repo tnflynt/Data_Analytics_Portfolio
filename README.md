@@ -16,6 +16,6 @@ This repository contains a collection of data science and analytics projects com
 
 * **[Predicting Boston Housing Prices](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/boston_house_price_prediction.ipynb)**: Uses linear regression to predict the median house price in Boston based on data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
 
-* **[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb)**: Builds a logistic regression model to predict the presence of heart disease using data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+* **[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/heart_disease_prediction.ipynb)**: Builds a logistic regression model to predict the presence of heart disease using data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
 
 * **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/credit_card_customer_segmentation.ipynb)**: Implements K-Means clustering and autoencoders to segment credit card customers based on spending behavior, focusing on interpretability and clustering effectiveness. Provides recommendations for each customer segment. Tools: Python, Scikit-Learn.
