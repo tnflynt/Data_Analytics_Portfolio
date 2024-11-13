@@ -1,17 +1,21 @@
-# Data_Analytics_Portfolio
+# Data Analytics Portfolio
 
-This repository contains a portfolio of data science and data analytic projects that I completed for academic, self- learning, and hobby purposes. Presented in the form of iPython Notebooks, R markdowns and interactive dashboards in Tableau Public.
-
+This repository contains a collection of data science and analytics projects completed for academic, self-learning, and personal exploration. Projects are presented as iPython Notebooks, R markdowns, and interactive dashboards on Tableau Public.
 
 ## Contents
 
-### •	Data Analysis and Visualization
+### • Data Analysis and Visualization
 
-*	[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Bike%20share%20program%20analysis.Rmd): Analysis of historical data in 2021 of Cyclistic, a bike-share company in Chicago, focusing on understanding how annual members and casual riders differ as well as identify which factors might influence casual riders to become members. Tools: R markdown.
-*	[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2): Exploration of Chicago crime data between 2015 and 2019 to identify how dangerous (or not) Chicago has become in the last year and assess conditions for major developer and risks. Tools: KNIME and Tableau.
-*	[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Customer%20Demographics%20Analysis_KNIME.pdf): Simple analysis of American Community Survey data 2012-2016 for Pennsylvania to identify the profiles of households who own their real estate with a mortgage or loan in the state of Pennsylvania. Tools: KNIME.
+* **[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Bike%20share%20program%20analysis.Rmd)**: Analyzes Cyclistic's 2021 data to examine differences between annual members and casual riders and identify factors that could convert casual riders to members. Tools: R Markdown.
 
-### •	Machine Learning
+* **[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2)**: Explores Chicago crime data from 2015 to 2019 to assess safety trends and risks relevant to major developments in the city. Tools: KNIME and Tableau.
 
-*	[Predicting Boston Housing Price](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Boston_house_price_prediction.ipynb): A linear regression model to predict the median value of a given house in Boston using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
-*	[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb): A logistic regression model to predict whether a patient has heart disease (or not) using dataset from UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+* **[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Customer%20Demographics%20Analysis_KNIME.pdf)**: Analyzes American Community Survey data (2012-2016) for Pennsylvania to profile households with mortgages or loans on their real estate. Tools: KNIME.
+
+### • Machine Learning
+
+* **[Predicting Boston Housing Prices](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Boston_house_price_prediction.ipynb)**: Uses linear regression to predict the median house price in Boston based on data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+
+* **[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Heart_disease_prediction.ipynb)**: Builds a logistic regression model to predict the presence of heart disease using data from the UCI Machine Learning Repository. Tools: PySpark on Google Colab.
+
+* **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Credit_Card_Customer_Segmentation.ipynb)**: Implements K-Means clustering and autoencoders to segment credit card customers based on spending behavior, focusing on interpretability and clustering effectiveness. Provides recommendations for each customer segment. Tools: Python, Scikit-Learn.
