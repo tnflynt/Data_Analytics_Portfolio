@@ -6,7 +6,7 @@ This repository contains a collection of data science and analytics projects com
 
 ### • Data Analysis and Visualization
 
-* **[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Bike%20share%20program%20analysis.Rmd)**: Analyzes Cyclistic's 2021 data to examine differences between annual members and casual riders and identify factors that could convert casual riders to members. Tools: R Markdown.
+* **[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Bike%20share%20program%20analysis.Rmd))**: Analyzes Cyclistic's 2021 data to examine differences between annual members and casual riders and identify factors that could convert casual riders to members. Tools: R Markdown.
 
 * **[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2)**: Explores Chicago crime data from 2015 to 2019 to assess safety trends and risks relevant to major developments in the city. Tools: KNIME and Tableau.
 
