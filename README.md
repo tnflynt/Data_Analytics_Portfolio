@@ -26,12 +26,16 @@ Projects are shared as Jupyter Notebooks, R Markdown reports, PDFs, or interacti
 
 ## 🤖 Machine Learning & Predictive Modeling  
 
-- **Smart City Infrastructure (Georgia Tech VIP Program)**  
-  Led a research team in applying **computer vision and statistical modeling** to pavement crack detection and classification.  
-  - Produced a Department of Transportation (DOT) report.  
-  - Enhanced measurement precision through advanced image processing.  
-  - Contributed to **real-world infrastructure diagnostics** and academic publications.  
-  *Tools: Python, OpenCV, Scikit-Learn*  
+- **Smart City Infrastructure – NCHRP 01-57B (Aug 2024 – May 2025)**  
+  *Validating proposed definitions for comparable pavement cracking data*  
+
+  - **Objective**: Support the Federal Highway Administration and State DOTs in validating and refining standardized definitions for automated pavement cracking measurement (asphalt and JPCP).  
+  - **My Contribution**:  
+    - **Aug 2024 – Feb 2025**: Conducted **statistical case study analyses** to validate revised cracking definitions (WOD-288). Performed sensitivity studies on grid size, crack width thresholds, and orientation to assess robustness of the standard.  
+    - **Mar 2025 – May 2025**: Developed a **new interpretable classification method** for Jointed Plain Concrete Pavement (JPCP) slab states using geometric features and tree-based models, improving interpretability compared to prior deep learning approaches.  
+    - Co-authored the **Task 8 Data Analysis report**, synthesizing methodology, findings, and refinements for submission to the DOT research panel.  
+  - **Software/Tools**: Python, Scikit-Learn, OpenCV, Tableau, VS Code  
+  - **Deliverables**: [Task 8 Data Analysis Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/20250317-Task%208%20Data%20Analysis.pdf)  
 
 - **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/credit_card_customer_segmentation.ipynb)**  
   Built clustering models (K-Means, autoencoders) to segment customers by spending behavior. Generated recommendations for segment-specific engagement.  
