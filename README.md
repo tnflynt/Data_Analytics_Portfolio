@@ -54,10 +54,15 @@ Projects are shared as Jupyter Notebooks, R Markdown reports, PDFs, or interacti
 ## 🧾 Applied Data Projects  
 
 - **Receipt Fraud Detection**  
-  Designed a **multi-modal fraud detection system** leveraging image and text analytics to identify forged receipts.  
-  - Integrated anomaly detection with fusion models.  
-  - Improved accuracy and robustness of document validation.  
-  *Tools: Python, Scikit-Learn, OCR, NLP*  
+  *Detecting forged receipts through analytic and multimodal techniques*  
+
+  - **Objective**: Design a robust system to identify fraudulent receipts using both textual and visual features, reducing false positives while maintaining high detection accuracy.  
+  - **My Contribution**:  
+    - Built fusion models combining image analysis (receipt layout, signatures, logos), OCR-extracted text, and anomaly detection.  
+    - Designed feature engineering pipelines for both image and text modalities, including layout consistency and font-based anomalies.  
+    - Evaluated performance across multiple dimension metrics, optimised model thresholds for precision vs recall.  
+  - **Software/Tools**: Python, OCR (e.g. Tesseract or similar), Scikit-Learn, PIL/OpenCV, NLP tools  
+  - **Deliverables**: [Receipt Fraud Detection Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Receipt%20Fraud%20Detection.pdf)   
 
 - **Receipt Tracking App (In Development)**  
   Building a full-stack solution to digitize receipts and generate insights.  
