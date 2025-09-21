@@ -9,16 +9,18 @@ Welcome! This portfolio highlights my work in **data science, machine learning, 
 - **Smart City Infrastructure (NCHRP 01-57B)**  
   - Developed an interpretable pavement cracking classifier with **86.2% accuracy**, matching deep learning benchmarks.  
   - Contributed to a **national framework** now used by the Federal Highway Administration and State DOTs.  
+  - 📄 [DOT Task 8 Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/20250317-Task%208%20Data%20Analysis.pdf)  
 
 - **Receipt Fraud Detection**  
   - Built a **multimodal ML system** (image + OCR text) to detect forged receipts.  
   - Achieved **~77% accuracy, 0.48 recall, and improved F1-score** using late fusion of classifiers.  
   - Demonstrated value of combining **computer vision + NLP** for regulated domains.  
+  - 📄 [Final Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Receipt%20Fraud%20Detection.pdf)  
 
 - **Receipt Tracking App (In Development)**  
   - Designed an **OCR-powered full-stack app** for expense management and tax forecasting.  
   - Reached **90%+ field-level accuracy** (merchant, total, date) on U.S. receipts.  
-  - Built end-to-end: **FastAPI backend, ML parsers, Firebase, Next.js frontend, and cloud deployment (Render & Vercel)**.  
+  - Built end-to-end: **FastAPI backend, ML parsers, Firebase, Next.js frontend, and cloud deployment (Render & Vercel)**.   
 
 ---
 
