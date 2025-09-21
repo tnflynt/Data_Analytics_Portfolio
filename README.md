@@ -1,5 +1,3 @@
-Got it 👍 I’ll rewrite the **entire README** with your new details (90%+ field accuracy, full-stack ownership, deployment, ML work). This version balances **recruiter-friendly highlights** (fast, scannable) with **technical depth** (for hiring managers and data teams).
-
 ---
 
 # 📊 Data Analytics & Machine Learning Portfolio
