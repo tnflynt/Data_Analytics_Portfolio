@@ -1,19 +1,3 @@
-📊 Data Analytics & Machine Learning Portfolio
-
-Welcome! This portfolio showcases my work in data science, machine learning, and full-stack analytics applications — projects that deliver measurable impact in research, fraud detection, and expense automation.
-
-🚀 Featured Projects
-
-Smart City Infrastructure (NCHRP 01-57B)
-Developed an interpretable pavement cracking classifier with 86.2% accuracy, matching deep learning benchmarks while remaining transparent. Contributed to a national framework now used by the Federal Highway Administration and State DOTs.
-
-Receipt Fraud Detection
-Built a multimodal ML system (image + OCR text) that detects forged receipts. Achieved ~77% accuracy, 0.48 recall, and improved fraud detection F1-score using late fusion of text and image classifiers. Demonstrated the value of combining computer vision + NLP for regulated domains.
-
-Receipt Tracking App (In Development)
-Designed and deployed an OCR-powered full-stack app for expense management and tax forecasting. Achieved 90%+ accuracy per field (merchant, total, date) on test receipts. Delivered end-to-end: FastAPI backend, ML parsers, Firebase, Next.js frontend, and cloud deployment (Render & Vercel).
-
-🔎 Data Analysis & Visualization
 # 📊 Data Analytics & Machine Learning Portfolio  
 
 Welcome! This portfolio highlights my work in **data science, machine learning, and full-stack analytics applications** — projects that deliver measurable impact in **research, fraud detection, and expense automation**.  
