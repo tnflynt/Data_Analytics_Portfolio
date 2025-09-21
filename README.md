@@ -1,102 +1,54 @@
----
+📊 Data Analytics & Machine Learning Portfolio
 
-# 📊 Data Analytics & Machine Learning Portfolio
+Welcome! This portfolio showcases my work in data science, machine learning, and full-stack analytics applications — projects that deliver measurable impact in research, fraud detection, and expense automation.
 
-Welcome! This portfolio highlights a curated collection of **data science, analytics, and applied machine learning projects** I’ve completed through **government research, academic programs, and full-stack development initiatives**.
+🚀 Featured Projects
 
-Each project demonstrates my ability to combine **data engineering, statistical modeling, machine learning, and cloud-ready software development** to deliver **actionable insights, automation, and decision support**.
+Smart City Infrastructure (NCHRP 01-57B)
+Developed an interpretable pavement cracking classifier with 86.2% accuracy, matching deep learning benchmarks while remaining transparent. Contributed to a national framework now used by the Federal Highway Administration and State DOTs.
 
-Deliverables include **Jupyter Notebooks, R Markdown reports, interactive Tableau dashboards, and deployed applications**.
+Receipt Fraud Detection
+Built a multimodal ML system (image + OCR text) that detects forged receipts. Achieved ~77% accuracy, 0.48 recall, and improved fraud detection F1-score using late fusion of text and image classifiers. Demonstrated the value of combining computer vision + NLP for regulated domains.
 
----
+Receipt Tracking App (In Development)
+Designed and deployed an OCR-powered full-stack app for expense management and tax forecasting. Achieved 90%+ accuracy per field (merchant, total, date) on test receipts. Delivered end-to-end: FastAPI backend, ML parsers, Firebase, Next.js frontend, and cloud deployment (Render & Vercel).
 
-## 🚀 Featured Projects
+🔎 Data Analysis & Visualization
 
-* **Smart City Infrastructure (NCHRP 01-57B)**
-  Contributed to a **federally funded research project** supporting the Federal Highway Administration and State DOTs. Developed an interpretable JPCP slab classification method with **86.2% accuracy**, comparable to deep learning but transparent for policy adoption. Findings were incorporated into a **national pavement condition framework**.
+Bike Share Program Analysis
+ – Analyzed 200k+ rides to identify membership conversion opportunities.
 
-* **Receipt Fraud Detection**
-  Built a **multimodal fraud-detection system** combining OCR, image features, and anomaly detection. Reduced false positives while improving precision in detecting forged receipts — strengthening compliance in financial reporting.
+Chicago Crime Analysis
+ – Revealed safety trends (2015–2019) impacting urban development.
 
-* **Receipt Tracking App (In Development)**
-  Designed and deployed an OCR-based full-stack web app for automated expense management. Achieved **90%+ field-level accuracy** (merchant, total, date) on U.S. receipt test data. Delivered full lifecycle: **FastAPI backend, ML pipeline, Firebase, Next.js frontend, and cloud deployment (Render + Vercel)**.
+Customer Demographics Analysis
+ – Segmented U.S. households for housing market insights.
 
----
+🤖 Machine Learning Projects
 
-## 🔎 Data Analysis & Visualization
+Credit Card Segmentation
+ – Clustered spending patterns with K-Means & autoencoders → marketing recommendations.
 
-* **[Bike Share Program Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/bike_share_program_analysis.Rmd)**
-  Analyzed **200k+ ride records** from Cyclistic’s 2021 dataset to identify behavioral differences between casual riders and members, surfacing **membership conversion opportunities**.
-  *Tools: R Markdown*
+Boston Housing Prices
+ – Modeled housing affordability using PySpark regressions.
 
-* **[Chicago Crime Analysis](https://public.tableau.com/app/profile/trinh.flynt/viz/ChicagoCrime2015-2019/Story2)**
-  Evaluated crime patterns (2015–2019) to reveal **urban safety trends** influencing Chicago’s development.
-  *Tools: KNIME, Tableau*
+Heart Disease Prediction
+ – Logistic regression model for patient risk prediction.
 
-* **[Customer Demographics Analysis](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/customer_demographics_analysis_KNIME.pdf)**
-  Profiled Pennsylvania households using U.S. Census ACS data, producing **housing market segmentation insights** for mortgage and loan targeting.
-  *Tools: KNIME*
+🛠️ Skills
 
----
+Languages & Tools: Python, R, SQL, Tableau, KNIME, Excel, Firebase
 
-## 🤖 Machine Learning & Predictive Modeling
+ML & AI: Regression, Clustering, Tree-based Models, Autoencoders, OCR Pipelines, Computer Vision, NLP
 
-* **Smart City Infrastructure – NCHRP 01-57B**
+Engineering: ETL Pipelines, Feature Engineering, Cloud Deployment (Render, Vercel), FastAPI, Next.js
 
-  * **Objective**: Standardize pavement cracking definitions for U.S. transportation agencies.
-  * **Contribution**: Designed an interpretable **tree-based classification model** achieving **86.2% accuracy**, supporting national pavement reporting guidelines.
-  * **Deliverables**: [Task 8 Data Analysis Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/20250317-Task%208%20Data%20Analysis.pdf)
-  * **Tools**: Python, Scikit-Learn, OpenCV, Tableau
+Visualization: Tableau Dashboards, R Markdown, Matplotlib/Seaborn
 
-* **[Credit Card Customer Segmentation](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/credit_card_customer_segmentation.ipynb)**
-  Applied clustering (K-Means, autoencoders) to segment customers and recommend targeted marketing strategies.
+🌟 What This Portfolio Demonstrates
 
-* **[Predicting Boston Housing Prices](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/boston_house_price_prediction.ipynb)**
-  Modeled housing prices with PySpark regression methods to explore affordability drivers.
+✔ Turning complex business & research problems into data-driven solutions
+✔ Delivering government research reports, fraud detection systems, and full-stack apps
+✔ Managing the entire data lifecycle — collection → modeling → deployment → insights
 
-* **[Heart Disease Prediction](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/heart_disease_prediction.ipynb)**
-  Logistic regression model to identify patient risk factors for heart disease, demonstrating **healthcare analytics applications**.
-
----
-
-## 🧾 Applied Data Projects
-
-* **Receipt Fraud Detection**
-
-  * Built **fusion models** combining OCR text and image features.
-  * Developed anomaly detection to flag **layout/font inconsistencies**.
-  * Optimized for **precision** while minimizing false positives.
-  * [Fraud Detection Report (PDF)](https://github.com/tnflynt/Data_Analytics_Portfolio/blob/main/Receipt%20Fraud%20Detection.pdf)
-
-* **Receipt Tracking App (In Development)**
-
-  * **Impact**: 90%+ accuracy for merchant, total, and date fields on real test data.
-  * **Ownership**: End-to-end development — backend (FastAPI), ML parsers, OCR integration, cloud deployment (Render), frontend (Next.js on Vercel).
-  * **Features**: Automated categorization, interactive dashboards, and **tax-deduction forecasting**.
-  * **Stack**: Python (FastAPI), Next.js, Firebase, Google Vision API, Tableau.
-
----
-
-## 🛠️ Skills Demonstrated
-
-* **Programming & Tools**: Python, R, SQL, Tableau, KNIME, Excel, Firebase
-* **Machine Learning**: Regression, Clustering, Autoencoders, Tree-based Models, Image Processing, OCR pipelines
-* **Data Engineering**: ETL pipelines, OCR text extraction, Feature Engineering, Cloud deployment
-* **Visualization**: Tableau dashboards, R Markdown, Matplotlib/Seaborn
-* **Applications**: Fraud Detection, Infrastructure Analytics, Financial Forecasting, Expense Automation
-
----
-
-## 🌟 What This Portfolio Shows
-
-✔ Ability to **translate business, finance, and research problems into data-driven solutions**.
-✔ Experience delivering **government research reports, business analytics, and full-stack ML applications**.
-✔ Proven capability to manage the **full data lifecycle**: ingestion → processing → modeling → deployment → reporting.
-
----
-
-👉 Explore the repositories, dashboards, and reports — and let’s connect if you’re hiring or interested in collaboration.
-
----
-
-Would you like me to also prepare a **short “executive summary” version** (just Featured Projects + Skills + Contact) for recruiters who only skim the README in under 30 seconds?
+👉 Explore the repositories & dashboards — and feel free to connect if you’re hiring or collaborating in data analytics, machine learning, or applied AI.
